@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Penetration Testing
 
 
-[![TryHackMe](./tryhackme.png)](https://tryhackme.com/p/wuhwe)
+[![TryHackMe](./thm.png)](https://tryhackme.com/p/wuhwe)
 
 [![HackTheBox](http://www.hackthebox.eu/badge/image/108325)](https://www.hackthebox.eu/profile/108325)
 
