@@ -5,7 +5,7 @@
 
 [![TryHackMe](./thm.png)](https://tryhackme.com/p/wuhwe)
 
-[![HackTheBox](https://www.hackthebox.eu/badge/image/108325)](https://www.hackthebox.eu/profile/108325)
+[![HackTheBox](https://www.hackthebox.eu/badge/image/108325)](https://app.hackthebox.eu/profile/108325)
 
 ### ⚡Technologies
 
