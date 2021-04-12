@@ -17,6 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat-square&logo=opengl)
